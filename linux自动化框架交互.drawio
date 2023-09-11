@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T07:13:05.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.4" etag="r0iL4R_kicrebp_2q1Pm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T08:11:12.599Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BcVAOLmB9P0ObI7phjRN" version="21.7.4" type="github">
   <diagram name="第 1 页" id="ZwvLkAM5AK8XNmjKARRO">
-    <mxGraphModel>
+    <mxGraphModel dx="869" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9AX0Qdu2IiCcMrhyYvW-1" target="m9AX0Qdu2IiCcMrhyYvW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9AX0Qdu2IiCcMrhyYvW-1" target="m9AX0Qdu2IiCcMrhyYvW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-1" value="测试人员&#xa;Jenkins" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9AX0Qdu2IiCcMrhyYvW-5" target="m9AX0Qdu2IiCcMrhyYvW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m9AX0Qdu2IiCcMrhyYvW-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.9999999999999" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-10" value="gerrit服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-13" value="git clone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-14" value="传输自动化代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="258" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-15" value="测试机器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-21" value="测试机器完成" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="414" y="200" width="186" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-22" value="python3 deploy.py自动部署" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="m9AX0Qdu2IiCcMrhyYvW-21">
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-23" value="python3 main.py&amp;nbsp; &amp;nbsp;执行用例" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="m9AX0Qdu2IiCcMrhyYvW-21">
+          <mxGeometry y="60" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m9AX0Qdu2IiCcMrhyYvW-24" value="allure serve ./&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 测试报告" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="m9AX0Qdu2IiCcMrhyYvW-21">
+          <mxGeometry y="90" width="186" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
